@@ -110,17 +110,21 @@ Grouping customers based on similar traits and shared characteristics such as in
 #### **Visualization:**
 
 <p>
+  <img src="reports/Distortion_Score_Elbow_For_KMeans_Clustering.png" alt="Image 1" height="200" width="300" style="display:inline;">
   <img src="reports/PCA_Dimentionality_Reduction_3D.png" alt="Image 1" height="200" width="300" style="display:inline;">
-  <img src="reports/3D_Cluster_Visualization_of_PCA_Components.png" alt="Image 2" height="200" width="300" style="display:inline;">
-  <img src="reports/Distribution_of_Feature1_Across_Clusters.png" alt="Image 3" height="200" width="300" style="display:inline;">
-  <img src="reports/Distribution_of_Feature2_Across_Clusters.png" alt="Image 4" height="200" width="300" style="display:inline;">
-  <img src="reports/Distribution_of_Feature3_Across_Clusters.png" alt="Image 5" height="200" width="300" style="display:inline;">
-  <img src="reports/Distortion_Score_Elbow_For_KMeans_Clustering.png" alt="Image 6" height="200" width="300" style="display:inline;">
-</p>
+  <img src="reports/Principal_Components_Domenant_Original_Values.png" alt="Image 5" height="200" width="300" style="display:inline;">  
+  <img src="reports/Distribution_of_Features_in_Cluster_0.png" alt="Image 3" height="200" width="300" style="display:inline;">
+  <img src="reports/Distribution_of_Features_in_Cluster_1.png" alt="Image 4" height="200" width="300" style="display:inline;">
+  <img src="reports/Distribution_of_Features_in_Cluster_2.png" alt="Image 5" height="200" width="300" style="display:inline;">
+  <img src="reports/Distribution_of_Features_in_Cluster_3.png" alt="Image 6" height="200" width="300" style="display:inline;">
+  <img src="reports/Percentage_Distribution_by_Category_and_Cluster.png" alt="Image 7" height="200" width="300" style="display:inline;">
+  <img src="reports/3D_Cluster_Visualization_of_PCA_Components.png" alt="Image 8" height="200" width="300" style="display:inline;">
+ </p>
 
 - **Line plot:** Using Elbow method to determine the optimal number of customer groups/clusters.
 - **3D plot:** To Visualize the clusters(groups) of customers.
 - **Correlation Heatmap Analysis plot** A powerful visualization tool to show relationships between different variables and their influence on each feature
+- **Density plot:** To Visualize the Density of each feature in each clusters of customers.
 
 <br>
 
